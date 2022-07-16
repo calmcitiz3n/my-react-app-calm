@@ -1,0 +1,24 @@
+.actions {
+  margin-left: auto;
+}
+.actions span {
+  padding: 0 5px;
+  color: #838996;
+}
+.restaurant__name {
+}
+.actions button {
+  width: 25px;
+  height: 25px;
+  background-color: #f0ad4e;
+  color: #fff;
+  border: none;
+  border-radius: 2px;
+}
+.root {
+  display: flex;
+  padding: 20px;
+  max-width: 400px;
+  border: 1px solid #dcdcdc;
+  align-items: center;
+}

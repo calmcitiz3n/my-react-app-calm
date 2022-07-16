@@ -1,0 +1,11 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+.rootTouch {
+  flex-direction: row;
+}
+.menu:not(:last-child) {
+  margin-bottom: 20px;
+}
